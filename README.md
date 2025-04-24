@@ -1,4 +1,4 @@
-# ** `#0969DA` Welcome to the Zazz Tech Hub**
+# **Welcome to the Zazz Tech Hub**
 
 This GitHub space is where **tech meets talent.**
 
